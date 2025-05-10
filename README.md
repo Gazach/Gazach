@@ -1,20 +1,14 @@
-# Hello!!!
 
-<img src="https://media.tenor.com/uRSBh2HgszkAAAAC/naoto-shirogane.gif" width="450px">
+# Hello there, I'm Gaza
 
-Hi! I'am Gazach, I am an ordinary student whose hobby is programming, I'm still not very good at programming but I'm trying to get better
-<br />
-<br />
-<br />
-<br />
-## My Social Media!
+I am a 17 year old programmer and I live in Indonesia. I do programming as a hobby.
 
-<a href="https://gazach.netlify.app/"><img align="left" alt="website" width="55px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a>
-<a href="https://www.instagram.com/gaza.ch/"><img align="left" alt="Insragram" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.youtube.com/@gazach"><img align="left" alt="Insragram" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+My current educational background is vocational school and I am heading to university
 
-<br />
-<br />
-<br />
-<br />
-<img src="https://media.tenor.com/cRQFvdHgeKoAAAAC/persona-4-arena-ultimax-shadow-naoto.gif">
+I'm still not very good at programming but I'm trying to get better ^^
+
+![gazach's Stats](https://github-readme-stats.vercel.app/api?username=gazach&theme=dracula&show_icons=true&hide_border=false&count_private=false)
+
+![gazach's Top Languages (in repository)](https://github-readme-stats.vercel.app/api/top-langs/?username=gazach&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+
+
