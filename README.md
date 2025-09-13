@@ -3,7 +3,7 @@
 
 I am a 17 year old programmer and I live in Indonesia. I do programming as a hobby.
 
-My current educational background is vocational school and I am heading to university
+Currently studying at Gunadarma University
 
 I'm still not very good at programming but I'm trying to get better.
 <br><br>
